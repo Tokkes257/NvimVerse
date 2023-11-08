@@ -43,3 +43,5 @@ opt.swapfile = false
 
 -- remove (make invisible) tilde character on empty lines
 vim.opt.fillchars = {eob = " "}
+
+opt.timeoutlen = 250

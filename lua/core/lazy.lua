@@ -13,5 +13,3 @@ vim.opt.rtp:prepend(lazypath)
 
 require("lazy").setup("plugins")
 
--- document existing key chains
-require("core.which-key-mappings")
